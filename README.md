@@ -40,7 +40,7 @@ print(f"Square root of the number: {new}")
 ```
 
 ## Output:
-![Alt text](<Screenshot (66).png>)
+![Alt text](<Screenshot (67).png>)
 
 
 ## Result:
